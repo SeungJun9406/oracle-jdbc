@@ -86,7 +86,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>실적 table NVL Test</h1>
+	<h1>NVL</h1>
 	<table>
 		<tr>
 			<td>이름</td>
@@ -105,7 +105,7 @@
 	%>
 	</table>
 	<hr>
-	<h1>실적 table NVL2 Test</h1>
+	<h1>NVL2</h1>
 	<table>
 		<tr>
 			<td>이름</td>
@@ -124,7 +124,7 @@
 	%>
 	</table>
 	<hr>
-	<h1>실적 table NULLIF Test</h1>
+	<h1>NULLIF</h1>
 	<table>
 		<tr>
 			<td>이름</td>
@@ -143,7 +143,7 @@
 	%>
 	</table>
 	<hr>
-	<h1>실적 table COALESCE Test</h1>
+	<h1>COALESCE</h1>
 	<table>
 		<tr>
 			<td>이름</td>
